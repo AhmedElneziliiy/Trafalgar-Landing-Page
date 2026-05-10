@@ -4,13 +4,13 @@ A responsive **HTML/CSS/JS landing page** for a healthcare and telemedicine serv
 
 ## What it does
 
-A static frontend landing page for a fictional healthcare platform called Trafalgar. Showcases the platform's features: online consultations, pharmacy, disease tracking, emergency care, and healthcare provider listings.
+A static frontend landing page for a fictional healthcare platform. Showcases features including online consultations, pharmacy, disease tracking, emergency care, and healthcare provider listings.
 
 ## Tech Stack
 
 - **HTML5**
 - **CSS3** — custom styling with a medical/health aesthetic
-- **Vanilla JavaScript** — interactive elements
+- **Vanilla JavaScript**
 
 ## Sections
 
